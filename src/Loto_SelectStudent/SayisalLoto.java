@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package Loto_SelectStudent;
+
 import java.util.Random;
 import java.util.Scanner;
 

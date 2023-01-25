@@ -31,8 +31,8 @@ Proje: Araç Sigorta Prim Hesaplama
             //menu ve tarife donemi sectir
             System.out.println("Arac Sigorta Birimi Hesaplama");
             System.out.println("Tarife Donemini Seciniz");
-            System.out.println("1.Haziran 20022");
-            System.out.println("2.Aralik 20022");
+            System.out.println("1.Haziran 2022");
+            System.out.println("2.Aralik 2022");
             int term = input.nextInt();
             if (term == 1 || term == 2) {
                 Arac arac = new Arac();

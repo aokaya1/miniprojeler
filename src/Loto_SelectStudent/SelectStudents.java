@@ -1,3 +1,5 @@
+package Loto_SelectStudent;
+
 import java.util.Scanner;
 
 public class SelectStudents {
